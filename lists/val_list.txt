@@ -1,0 +1,10 @@
+ccmixter_corpus_05.npz
+ccmixter_corpus_10.npz
+ccmixter_corpus_15.npz
+ccmixter_corpus_20.npz
+ccmixter_corpus_25.npz
+ccmixter_corpus_30.npz
+ccmixter_corpus_35.npz
+ccmixter_corpus_40.npz
+ccmixter_corpus_45.npz
+ccmixter_corpus_50.npz
