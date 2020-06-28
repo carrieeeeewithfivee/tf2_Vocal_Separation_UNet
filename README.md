@@ -19,7 +19,9 @@ Samples of wav files can be found in the predictions folder.
 
 ## Environment:
   python 3.6
+  
   tensorflow 2.1
+  
   run on cuda 10.1 for gpu
   
 ## How to train:
