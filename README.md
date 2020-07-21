@@ -3,8 +3,12 @@ Tensorflow 2.0 implementation for Vocal Separation UNet
 
 ![Spectrogram comparison](https://github.com/carrieeeeewithfivee/tf2_Vocal_Separation_UNet/blob/master/predictions/samples.png)
 
-Based on [SINGING VOICE SEPARATION WITH DEEP U-NET CONVOLUTIONAL NETWORKS](https://ejhumphrey.com/assets/pdf/jansson2017singing.pdf) by A. Jansson, et al. 
-Inspired by [jnzhng/keras-unet-vocal-separation](https://github.com/jnzhng/keras-unet-vocal-separation). 
+Based on [SINGING VOICE SEPARATION WITH DEEP U-NET CONVOLUTIONAL NETWORKS](https://ejhumphrey.com/assets/pdf/jansson2017singing.pdf) by A. Jansson, et al
+
+
+Inspired by [jnzhng/keras-unet-vocal-separation](https://github.com/jnzhng/keras-unet-vocal-separation)
+
+
 Full report [here](https://drive.google.com/file/d/1UguJXjXYjuKBb5Y6hKLV4rVNWd8ONHMx/view?usp=sharing)
 
 ## Results:
