@@ -5,6 +5,7 @@ Tensorflow 2.0 implementation for Vocal Separation UNet
 
 Based on [SINGING VOICE SEPARATION WITH DEEP U-NET CONVOLUTIONAL NETWORKS](https://ejhumphrey.com/assets/pdf/jansson2017singing.pdf) by A. Jansson, et al
 Inspired by [jnzhng/keras-unet-vocal-separation](https://github.com/jnzhng/keras-unet-vocal-separation)
+Full report [here](https://drive.google.com/file/d/1UguJXjXYjuKBb5Y6hKLV4rVNWd8ONHMx/view?usp=sharing)
 
 ## Results:
   Due to small dataset size (150 songs for training data VS 20,000 in original paper), our model overfits when evaluating. No data augmentation was used, which would have benefited this situation greatly. (The higher SDR is, the better)
